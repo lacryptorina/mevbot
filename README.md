@@ -8,6 +8,8 @@ build all the code for a telegram bot that shows which wallets buying and sellin
 
 
 
+- make it into one page of code i can copy and paste into botfather without the need to download anything
+
 
 Check OUTPUT.md for the complete unaltered output.
 
